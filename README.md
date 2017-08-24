@@ -5,3 +5,4 @@ add name "Smaug"
 add git smaug
 add git smaug
 push '*.txt'
+add "dragon.txt"
