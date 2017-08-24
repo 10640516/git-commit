@@ -4,3 +4,4 @@ add git dragon
 add name "Smaug"
 add git smaug
 add git smaug
+push '*.txt'
