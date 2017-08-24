@@ -28,3 +28,4 @@ add dragon part "teeth"
 add dragon part "claws"
 add dragon part "scales"
 merge 'dragon parts'
+finish git Smaug
