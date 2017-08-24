@@ -27,3 +27,4 @@ add dragon part "right fin"
 add dragon part "teeth"
 add dragon part "claws"
 add dragon part "scales"
+merge 'dragon parts'
