@@ -6,3 +6,4 @@ add git smaug
 add git smaug
 push '*.txt'
 add "dragon.txt"
+pull '*.txt'
