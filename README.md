@@ -7,3 +7,4 @@ add git smaug
 push '*.txt'
 add "dragon.txt"
 pull '*.txt'
+add clean up
