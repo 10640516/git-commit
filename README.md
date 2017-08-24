@@ -11,3 +11,4 @@ add clean up
 add clean_up
 add dragon.txt
 add dragon part "tail"
+add dragon part "left wing"
