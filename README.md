@@ -8,3 +8,4 @@ push '*.txt'
 add "dragon.txt"
 pull '*.txt'
 add clean up
+add clean_up
