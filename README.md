@@ -10,3 +10,4 @@ pull '*.txt'
 add clean up
 add clean_up
 add dragon.txt
+add dragon part "tail"
